@@ -33,3 +33,5 @@ add remote repository
 adfs
 
 host connected and push is initiated from vs code
+
+second commit initiated from vs code
