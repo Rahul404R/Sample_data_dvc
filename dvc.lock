@@ -23,8 +23,8 @@ stages:
       md5: d98e8f2eca228c11c4de1cc96866a54d
       size: 93598
     - path: src/split_data.py
-      md5: d0b79a27bd3db7325015bcec9ce3f589
-      size: 1099
+      md5: 35e734654babc5f5ed3937871dba9e36
+      size: 1112
     outs:
     - path: data/processed/test_winequality.csv
       md5: 01718da3bd6e206060ed00667ca1a389

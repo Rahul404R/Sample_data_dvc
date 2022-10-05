@@ -14,6 +14,8 @@ def split_and_saved_data(config_path):
     split_ratio = config["split_data"]["test_size"]
     random_state = config["base"]["random_state"]
 
+# adsfasf
+
     df = pd.read_csv(raw_data_path, sep=",")
     train, test = train_test_split(
         df, 
